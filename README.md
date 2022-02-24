@@ -1,4 +1,4 @@
-# website-info-lookup
+# Website-info-lookup
 Let's your query IPs, CNAMES, MX records and Name Servers
 
 Usage 
